@@ -48,7 +48,7 @@ namespace SQLCopyCloneDataTable
                 else
                 {
                     //Console.WriteLine("Rows not Found!!");
-                    CloneDataTable.Rows.Add(1, "Anjali", "", "Singh");
+                    CloneDataTable.Rows.Add(1, "Dakshita", "", "Verma");
                     CloneDataTable.Rows.Add(2, "Yuvraj", "", "Bhardwaj");
                 }
                 foreach (DataRow row in CloneDataTable.Rows)
